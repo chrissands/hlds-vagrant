@@ -1,0 +1,1660 @@
+Place BombsiteA
+	radio\bot\Reallite\a\a.wav
+	radio\bot\Reallite\a\a1.wav
+	radio\bot\Reallite\a\a3.wav
+	radio\bot\Reallite\a\a4.wav
+End
+
+Place BombsiteB
+	radio\bot\Reallite\b\b.wav
+	radio\bot\Reallite\b\b1.wav
+	radio\bot\Reallite\b\b2.wav
+	radio\bot\Reallite\b\b3.wav
+	radio\bot\Reallite\b\b4.wav
+End
+
+Place BombsiteC
+	radio\bot\Reallite\c\c.wav
+End
+
+Place Hostages
+        radio\bot\Reallite\_Places\U_zalozhnikov.wav
+End
+
+Place HostageRescueZone
+	radio\bot\cooked\rescue_zone.wav
+	radio\bot\cooked\rescue_zone2.wav
+End
+
+Place VipRescueZone
+	radio\bot\cooked\rescue_zone.wav
+	radio\bot\cooked\rescue_zone2.wav
+End
+
+Place CTSpawn
+	radio\bot\Reallite\_Places\Na_ct_respe.wav
+End
+
+Place TSpawn
+        radio\bot\Reallite\_Places\Na_t_respe.wav
+End
+
+//--------------------------DE_KOPETS--------------------------
+
+Place na_balkone
+	radio\bot\Reallite\_Places\na_balkone.wav
+ 	radio\bot\Reallite\_Places\Na_balkone.wav
+End
+
+Place  na_cherdake
+	radio\bot\Reallite\_Places\na_cherdake.wav
+End
+
+Place na_gorke
+	radio\bot\Reallite\_Places\na_gorke.wav
+End
+
+Place na_krishe
+	radio\bot\Reallite\_Places\na_krishe.wav
+End
+
+Place na_mostike
+	radio\bot\Reallite\_Places\na_mostike.wav
+End
+
+Place na_oblomke
+	radio\bot\Reallite\_Places\na_oblomke.wav
+End
+
+Place na_podjeme
+	radio\bot\Reallite\_Places\na_podjeme.wav
+End
+
+Place na_relsah
+	radio\bot\Reallite\_Places\na_relsah.wav
+End
+
+Place na_skwoznake
+	radio\bot\Reallite\_Places\na_skwoznake.wav
+End
+
+Place na_wokzale
+	radio\bot\Reallite\_Places\na_wokzale.wav
+End
+
+Place pod_kosoj
+	radio\bot\Reallite\_Places\pod_kosoj.wav
+End
+
+Place pod_wagonom
+	radio\bot\Reallite\_Places\pod_wagonom.wav
+End
+
+Place u_kont
+	radio\bot\Reallite\_Places\u_konteinera.wav
+End
+
+Place u_konteinera
+	radio\bot\Reallite\_Places\u_konteinera.wav
+End
+
+Place u_oblomka
+	radio\bot\Reallite\_Places\u_oblomka.wav
+End
+
+Place w_budke
+	radio\bot\Reallite\_Places\w_budke.wav
+End
+
+Place w_dalnem
+	radio\bot\Reallite\_Places\w_dalnem.wav
+End
+
+Place w_dlinnom
+	radio\bot\Reallite\_Places\w_dlinnom.wav
+End
+
+Place w_duple
+	radio\bot\Reallite\_Places\w_duple.wav
+End
+
+Place w_jame
+	radio\bot\Reallite\_Places\w_jame.wav
+End
+
+Place w_kosoj
+	radio\bot\Reallite\_Places\w_kosoj.wav
+End
+
+Place w_musorke
+	radio\bot\Reallite\_Places\w_musorke.wav
+End
+
+Place w_nichke
+	radio\bot\Reallite\_Places\w_nichke.wav
+End
+
+Place w_podjeme
+	radio\bot\Reallite\_Places\w_podjeme.wav
+End
+
+Place w_podjezde
+	radio\bot\Reallite\_Places\w_podjezde.wav
+End
+
+Place w_uglu
+	radio\bot\Reallite\_Places\w_uglu.wav
+End
+
+Place w_zagashnike
+	radio\bot\Reallite\_Places\w_zagashnike.wav
+End
+
+Place w_zhopnike
+	radio\bot\Reallite\_Places\w_zhopnike.wav
+End
+
+Place wo_dworike
+	radio\bot\Reallite\_Places\wo_dworike.wav
+End
+
+Place za_jashikom
+	radio\bot\Reallite\_Places\za_jashikom.wav
+End
+
+Place za_kont
+	radio\bot\Reallite\_Places\za_konteinerom.wav
+End
+
+Place za_konteinerom
+	radio\bot\Reallite\_Places\za_konteinerom.wav
+End
+
+Place W_tortse
+	radio\bot\Reallite\_Places\w_tortse.wav
+End
+
+-----------------------CS_ASSAULT---------------------------
+
+Place Na_dome
+        radio\bot\Reallite\_Places\Na_dome.wav
+End
+
+Place Na_mostu
+        radio\bot\Reallite\_Places\Na_mostu.wav
+End
+
+Place Na_respe_kontrov
+        radio\bot\Reallite\_Places\Na_ct_respe.wav
+End
+
+Place Na_spuske
+        radio\bot\Reallite\_Places\Na_spuske.wav
+End
+
+Place Na_yaschike
+        radio\bot\Reallite\_Places\Na_yaschike.wav
+End
+
+Place Naverhu_v_angare
+        radio\bot\Reallite\_Places\Naverhu_v_angare.wav
+End
+
+Place Pered_angarom
+        radio\bot\Reallite\_Places\Pered_angarom.wav
+End
+
+Place Pod_mostom
+        radio\bot\Reallite\_Places\Pod_mostom.wav
+End
+
+Place U_spuska
+        radio\bot\Reallite\_Places\U_spuska.wav
+End
+
+Place U_zalozhnikov
+        radio\bot\Reallite\_Places\U_zalozhnikov.wav
+End
+
+Place V_sortire
+        radio\bot\Reallite\_Places\V_sortire.wav
+End
+
+Place V_trube
+        radio\bot\Reallite\_Places\V_trube.wav
+End
+
+Place V_uglu
+        radio\bot\Reallite\_Places\V_uglu.wav
+End
+
+Place Vnizu_v_angare
+        radio\bot\Reallite\_Places\Vnizu_v_angare.wav
+End
+
+Place Vo_dvore
+        radio\bot\Reallite\_Places\Vo_dvore.wav
+End
+
+Place Za_angarom
+        radio\bot\Reallite\_Places\Za_angarom.wav
+End
+
+Place Na_kryshe
+	radio\bot\Reallite\_Places\na_krishe.wav
+End
+
+
+------------------ De_train ---------------------
+
+
+Place Mezhdu_depo
+	radio\bot\Reallite\_Places\mezhdu_depo.wav
+End
+
+Place Na_blizhnem
+	radio\bot\Reallite\_Places\na_blizhnem.wav
+End
+
+Place Na_CT_respe
+	radio\bot\Reallite\_Places\na_ct_respe.wav
+End
+
+Place Na_dalnem
+	radio\bot\Reallite\_Places\na_dalnem.wav
+End
+
+Place Na_T_respe
+	radio\bot\Reallite\_Places\na_t_respe.wav
+End
+
+Place Na_Wagone
+	radio\bot\Reallite\_Places\na_wagone.wav
+End
+
+Place U_Jashika
+	radio\bot\Reallite\_Places\u_jashika.wav
+End
+
+Place U_Lestnitsi.wav
+	radio\bot\Reallite\_Places\u_lestnitsi.wav
+End
+
+Place U_Pomojki
+	radio\bot\Reallite\_Places\u_pomojki.wav
+End
+
+Place V_nychke
+	radio\bot\Reallite\_Places\V_nychke.wav
+End
+
+Place W_Kritom_depo
+	radio\bot\Reallite\_Places\w_kritom_depo.wav
+End
+
+Place W_Otkritom_depo
+	radio\bot\Reallite\_Places\W_Otkritom_depo.wav
+End
+
+Place W_Temnih_Tupikah
+	radio\bot\Reallite\_Places\W_temnih_tupikah.wav
+End
+
+Place W_Zigzage
+	radio\bot\Reallite\_Places\w_zigzage.wav
+End
+
+Place Na_kreste
+	radio\bot\Reallite\_Places\Na_kreste.wav
+End
+
+Place Wo_Dwore
+	radio\bot\Reallite\_Places\Wo_Dwore.wav
+End
+
+-------------------- АВТОМОБИЛИ -----------------------
+
+Place U_uazika
+	radio\bot\Reallite\_Places\u_uazika.wav
+End
+
+Place U_Gruzowika
+	radio\bot\Reallite\_Places\U_Gruzowika.wav
+End
+
+Place U_Benzowoza
+	radio\bot\Reallite\_Places\U_Benzowoza.wav
+End
+
+------------------ CS_Mansion -------------------------
+
+Place Na_perwom_etazhe
+	radio\bot\Reallite\_Places\Na_perwom_etazhe.wav
+	radio\bot\Reallite\_Places\Na_perwom_etazhe1.wav
+End
+
+Place Na_wtorom_etazhe
+	radio\bot\Reallite\_Places\Na_wtorom_etazhe.wav
+	radio\bot\Reallite\_Places\Na_wtorom_etazhe1.wav
+End
+
+Place Pered_domom
+	radio\bot\Reallite\_Places\pered_domom.wav
+End
+
+Place U_bokowoj_dweri
+	radio\bot\Reallite\_Places\U_bokowoj_dweri.wav
+End
+
+Place U_Lestnitsi
+	radio\bot\Reallite\_Places\U_Lestnitsi.wav
+End
+
+Place U_Nizhnih_zalozhej
+	radio\bot\Reallite\_Places\U_Nizhnih_zalozhej.wav
+End
+
+Place U_Setki
+	radio\bot\Reallite\_Places\U_Setki.wav
+End
+
+Place U_Werhnih_zalozhej
+	radio\bot\Reallite\_Places\U_Werhnih_zalozhej.wav
+End
+
+Place W_Kanalke
+	radio\bot\Reallite\_Places\W_Kanalke.wav
+End
+
+Place W_Okne_Nad_Dwerju
+	radio\bot\Reallite\_Places\W_okne_Nad_Dwerju.wav
+End
+
+Place W_Okne_Nad_Jashikami
+	radio\bot\Reallite\_Places\W_Okne_nad_jashikami.wav
+End
+
+Place W_Okne_Nad_lesenkoj
+	radio\bot\Reallite\_Places\W_Okne_nad_lesenkoj.wav
+End
+
+Place W_Tonnele
+	radio\bot\Reallite\_Places\W_tonnele.wav
+End
+
+Place Za_domom
+	radio\bot\Reallite\_Places\Za_domom.wav
+End
+
+//-------------------------- ОБЩЕЕ --------------------------
+
+Place W_okne
+        radio\bot\Reallite\_Places\W_Okne.wav
+End
+
+Place Za_skaloj
+        radio\bot\Reallite\_Places\za_skaloj.wav
+End
+
+Place Na_skale
+        radio\bot\Reallite\_Places\Na_skale.wav
+End
+
+Place W_wode
+        radio\bot\Reallite\_Places\w_wode.wav
+        radio\bot\Reallite\_Places\w_wode1.wav
+End
+
+Place W_tualete
+	radio\bot\Reallite\_Places\w_tualete.wav
+	radio\bot\Reallite\_Places\w_sortire.wav
+End
+
+Place U_zadnego_whoda
+	radio\bot\Reallite\_Places\U_zadnego_whoda.wav
+End
+
+Place U_kolodtsa
+	radio\bot\Reallite\_Places\U_kolodtsa.wav
+End
+
+Place U_reshetki
+	radio\bot\Reallite\_Places\U_reshetki.wav
+End
+
+Place W_sortire
+	radio\bot\Reallite\_Places\W_sortire.wav
+End
+
+Place Na_wishke
+	radio\bot\Reallite\_Places\Na_wishke.wav
+End
+
+Place Na_bashne
+	radio\bot\Reallite\_Places\Na_bashne.wav
+End
+
+Place Na_Dlinnom
+        radio\bot\Reallite\_Places\Na_dlinnom.wav
+End
+
+Place W_koridorah_u_kontrow
+        radio\bot\Reallite\_Places\w_koridorah_u_kontrow.wav
+End
+
+Place W_koridorah_u_terrow
+        radio\bot\Reallite\_Places\w_koridorah_u_terrow.wav
+End
+
+Place W_tupike
+        radio\bot\Reallite\_Places\w_tupike.wav
+End
+
+Place Za_wagonami
+        radio\bot\Reallite\_Places\za_wagonami.wav
+End
+
+Place Za_wagonom
+        radio\bot\Reallite\_Places\za_wagonom.wav
+End
+
+Place W_obhodnom
+        radio\bot\Reallite\_Places\w_obhodnom.wav
+End
+
+Place
+        radio\bot\Reallite\_Places\.wav
+End
+
+//-----------------------------------------------------------------------------------------
+//
+// Дальше идут фразы "переговоров" ботов
+//
+
+// one or more enemies have just been sighted for the first time
+//
+// бот впервые заметил одного или более врагов
+//
+Chatter EnemySpotted
+	Radio EVENT_RADIO_ENEMY_SPOTTED
+
+	Count 1
+		radio\bot\Reallite\Spotted\spotted1.wav
+		radio\bot\Reallite\Spotted\spotted11.wav
+		radio\bot\Reallite\Spotted\spotted12.wav
+
+	Count 2
+		radio\bot\Reallite\Spotted\spotted2.wav
+		radio\bot\Reallite\Spotted\spotted21.wav
+		radio\bot\Reallite\Spotted\spotted22.wav
+
+	Count 3
+		radio\bot\Reallite\Spotted\spotted3.wav
+		radio\bot\Reallite\Spotted\spotted31.wav
+		radio\bot\Reallite\Spotted\spotted33.wav
+
+	Count Many
+		// VOICE NOTE: The bot is scared here - there are a lot of enemies!
+		radio\bot\Reallite\Spotted\more.wav
+		radio\bot\Reallite\Spotted\more1.wav
+		radio\bot\Reallite\Spotted\more2.wav
+		radio\bot\Reallite\Spotted\more3.wav
+End
+
+// the bot has recently seen an enemy die
+// 
+// Бот видел как убили врага
+//
+Chatter EnemyDown
+	Radio EVENT_RADIO_ENEMY_DOWN
+
+	radio\bot\Reallite\Enemydown\killed.wav
+	radio\bot\Reallite\Enemydown\killed1.wav
+	radio\bot\Reallite\Enemydown\killed2.wav
+	radio\bot\Reallite\Enemydown\killed3.wav
+	radio\bot\Reallite\Enemydown\killed4.wav
+	radio\bot\Reallite\Enemydown\killed5.wav
+End
+
+// the bot says this when asked to "report in" while he is fighting enemies
+//
+// Бот отвечает это, в тот момент, когда его просят отрапортоваться 
+// "report in" а он в этот момент участвует в перестрелке
+//
+Chatter InCombat
+	Radio EVENT_RADIO_ENEMY_SPOTTED
+
+	radio\bot\Reallite\attacking\attacking.wav
+	radio\bot\Reallite\attacking\attacking1.wav
+End
+
+// the bot has been asked to "report in" and sees nothing interesting in his area
+//
+// Бот рапортует, что в той зоне, где он находится, он ничего интересного не видит
+//
+Chatter Clear
+	Radio EVENT_RADIO_SECTOR_CLEAR
+
+	radio\bot\Reallite\Clear\clear.wav
+	radio\bot\Reallite\Clear\clear1.wav
+	radio\bot\Reallite\Clear\clear2.wav
+	radio\bot\Reallite\Clear\clear3.wav
+	radio\bot\Reallite\Clear\clear4.wav
+	radio\bot\Reallite\Clear\clear5.wav
+	radio\bot\Reallite\Clear\clear6.wav
+	radio\bot\Reallite\Clear\clear7.wav
+	radio\bot\Reallite\Clear\clear8.wav
+End
+
+// the bot hasn't seen anything in a long time and is asking his teammates to report in
+//
+// Бот долго не видит ни каких ищменений и просит членов команды, сообщить, как у них дела
+//
+Chatter RequestReport
+	Radio EVENT_RADIO_REPORT_IN_TEAM
+
+	radio\bot\Reallite\Report\report.wav
+	radio\bot\Reallite\Report\report1.wav
+	radio\bot\Reallite\Report\report2.wav
+	radio\bot\Reallite\Report\report3.wav
+	radio\bot\Reallite\Report\report4.wav
+	radio\bot\Reallite\Report\report5.wav
+End
+
+// the bot has killed the enemy has was fighting
+//
+// Бот убил врага
+//
+Chatter KilledMyEnemy
+	Radio EVENT_RADIO_ENEMY_DOWN
+
+	radio\bot\Reallite\Killed\killed.wav
+	radio\bot\Reallite\Killed\killed1.wav
+	radio\bot\Reallite\Killed\killed2.wav
+	radio\bot\Reallite\Killed\killed3.wav
+	radio\bot\Reallite\Killed\killed4.wav
+	radio\bot\Reallite\Killed\killed5.wav
+End
+
+// the bot was chasing after his enemy and lost track of him
+//
+// Бот гнался за врагом и потерял его из виду.
+//
+// VOICE NOTE: В голосе небольшое разочарование, досада
+Chatter LostEnemy
+	radio\bot\Reallite\Lostenemy\lost.wav
+	radio\bot\Reallite\Lostenemy\lost1.wav
+	radio\bot\Reallite\Lostenemy\lost2.wav
+	radio\bot\Reallite\Lostenemy\lost3.wav
+	radio\bot\Reallite\Lostenemy\lost4.wav
+	radio\bot\Reallite\Lostenemy\lost5.wav
+	radio\bot\Reallite\Lostenemy\lost6.wav
+End
+
+// the bot is telling his team that the last enemy has been killed
+//
+// Бот сообщает всем, что убит последний враг и они победили
+//
+// VOICE NOTE: Голос радостный, довольный
+Chatter NoEnemiesLeft
+	radio\bot\Reallite\win\win.wav
+	radio\bot\Reallite\win\win1.wav
+	radio\bot\Reallite\win\win2.wav
+	radio\bot\Reallite\win\win3.wav
+	radio\bot\Reallite\win\win4.wav
+	radio\bot\Reallite\win\win5.wav
+	radio\bot\Reallite\win\win6.wav
+	radio\bot\Reallite\Somepuks\pukresp.wav
+	radio\bot\Reallite\win\win7.wav
+	radio\bot\Reallite\win\win8.wav
+End
+
+// the bot is telling his team there is one enemy left
+//
+// Бот сообщает, что противник отался один 
+//
+// VOICE NOTE:  В голосе - ожидание
+Chatter OneEnemyLeft
+	radio\bot\Reallite\Enemyone\one.wav
+	radio\bot\Reallite\Enemyone\one1.wav
+	radio\bot\Reallite\Enemyone\one2.wav
+	radio\bot\Reallite\Enemyone\one3.wav
+	radio\bot\Reallite\Enemyone\one4.wav
+	radio\bot\Reallite\SomePuks\puk.wav
+	radio\bot\Reallite\Enemyone\one.wav
+	radio\bot\Reallite\Enemyone\one1.wav
+	radio\bot\Reallite\Enemyone\one2.wav
+	radio\bot\Reallite\Enemyone\one3.wav
+	radio\bot\Reallite\Enemyone\one4.wav
+	radio\bot\Reallite\Enemyone\one.wav
+	radio\bot\Reallite\Enemyone\one1.wav
+	radio\bot\Reallite\Enemyone\one2.wav
+	radio\bot\Reallite\Enemyone\one3.wav
+	radio\bot\Reallite\Enemyone\one4.wav
+	radio\bot\Reallite\Enemyone\one.wav
+	radio\bot\Reallite\Enemyone\one1.wav
+	radio\bot\Reallite\Enemyone\one2.wav
+	radio\bot\Reallite\Enemyone\one3.wav
+	radio\bot\Reallite\Enemyone\one4.wav
+End
+
+// the bot is telling his team there are two enemies left
+//
+// Бот сообщает, что противников осталось двое
+//
+Chatter TwoEnemiesLeft
+	radio\bot\Reallite\EnemyTwo\two.wav
+	radio\bot\Reallite\EnemyTwo\two1.wav
+	radio\bot\Reallite\EnemyTwo\two2.wav
+	radio\bot\Reallite\EnemyTwo\two3.wav
+	radio\bot\Reallite\EnemyTwo\two4.wav
+	radio\bot\Reallite\EnemyTwo\two5.wav
+	radio\bot\Reallite\SomePuks\puk1.wav
+	radio\bot\Reallite\EnemyTwo\two.wav
+	radio\bot\Reallite\EnemyTwo\two1.wav
+	radio\bot\Reallite\EnemyTwo\two2.wav
+	radio\bot\Reallite\EnemyTwo\two3.wav
+	radio\bot\Reallite\EnemyTwo\two4.wav
+	radio\bot\Reallite\EnemyTwo\two5.wav
+	radio\bot\Reallite\EnemyTwo\two.wav
+	radio\bot\Reallite\EnemyTwo\two1.wav
+	radio\bot\Reallite\EnemyTwo\two2.wav
+	radio\bot\Reallite\EnemyTwo\two3.wav
+	radio\bot\Reallite\EnemyTwo\two4.wav
+	radio\bot\Reallite\EnemyTwo\two5.wav
+	radio\bot\Reallite\EnemyTwo\two.wav
+	radio\bot\Reallite\EnemyTwo\two1.wav
+	radio\bot\Reallite\EnemyTwo\two2.wav
+	radio\bot\Reallite\EnemyTwo\two3.wav
+	radio\bot\Reallite\EnemyTwo\two4.wav
+	radio\bot\Reallite\EnemyTwo\two5.wav
+End
+
+// the bot is telling his team there are three enemies left
+//
+// Бот сообщает, что противников осталось трое
+//
+Chatter ThreeEnemiesLeft
+	radio\bot\Reallite\EnemyThree\three.wav
+	radio\bot\Reallite\EnemyThree\three1.wav
+	radio\bot\Reallite\EnemyThree\three2.wav
+	radio\bot\Reallite\EnemyThree\three3.wav
+	radio\bot\Reallite\EnemyThree\three4.wav
+	radio\bot\Reallite\EnemyThree\three.wav
+	radio\bot\Reallite\EnemyThree\three1.wav
+	radio\bot\Reallite\SomePuks\puknetuda.wav
+End
+
+// the bot is in trouble and is asking for help
+//
+// У бота большие проблемы и ему срочно требуется помощь!
+//
+// VOICE NOTE: Он пытается удержаться, но сильно напуган :)
+Chatter Help
+	Radio EVENT_RADIO_TAKING_FIRE
+
+	radio\bot\Reallite\need_assistance\need.wav
+	radio\bot\Reallite\need_assistance\need1.wav
+	radio\bot\Reallite\SomePuks\puk2.wav
+	radio\bot\Reallite\need_assistance\need2.wav
+	radio\bot\Reallite\need_assistance\need3.wav
+	radio\bot\Reallite\need_assistance\need4.wav
+	radio\bot\Reallite\need_assistance\need5.wav
+	radio\bot\Reallite\need_assistance\need6.wav
+	radio\bot\Reallite\need_assistance\need7.wav
+	radio\bot\Reallite\need_assistance\need8.wav
+	radio\bot\Reallite\need_assistance\need9.wav
+	radio\bot\Reallite\need_assistance\need10.wav
+	radio\bot\Reallite\need_assistance\need11.wav
+	radio\bot\Reallite\need_assistance\need12.wav
+	radio\bot\Reallite\need_assistance\need13.wav
+	radio\bot\Reallite\need_assistance\need14.wav
+End
+
+// the bot is agreeing with the last radio command
+//
+// Бот соглашается с последней радиокомандой
+//
+Chatter Affirmative
+	Radio EVENT_RADIO_AFFIRMATIVE
+
+	Important
+
+	radio\bot\Reallite\ok\ok.wav 
+	radio\bot\Reallite\ok\ok1.wav 
+	radio\bot\Reallite\ok\ok2.wav 
+	radio\bot\Reallite\ok\ok3.wav 
+	radio\bot\Reallite\ok\ok4.wav 
+	radio\bot\Reallite\ok\ok5.wav 
+	radio\bot\Reallite\ok\ok6.wav 
+End
+
+// the bot has declined the last radio command
+Chatter Negative
+	Radio EVENT_RADIO_NEGATIVE
+
+	Important
+
+	radio\bot\Reallite\negative\net.wav
+	radio\bot\Reallite\negative\net1.wav
+ 	radio\bot\Reallite\negative\net3.wav
+	radio\bot\Reallite\negative\net4.wav
+	radio\bot\Reallite\negative\net5.wav
+	radio\bot\Reallite\negative\net6.wav
+	radio\bot\Reallite\negative\net7.wav
+	radio\bot\Reallite\negative\net8.wav
+	radio\bot\Reallite\negative\net9.wav
+	radio\bot\Reallite\negative\net10.wav
+End
+
+//-----------------------------------------------------------------------------------------
+//
+// Bomb defuse scenario chatter
+//
+
+// the (CT) bot has checked a bombsite and not found the bomb - he tells his teammates that site is clear
+Chatter BombsiteClear
+	Radio EVENT_RADIO_SECTOR_CLEAR
+
+	Important
+
+	radio\bot\Reallite\Clear\clear1.wav
+	radio\bot\Reallite\Clear\clear4.wav
+	radio\bot\Reallite\Clear\nobomb.wav
+	radio\bot\Reallite\Clear\nobomb1.wav
+	radio\bot\Reallite\Clear\nobomb2.wav
+End
+
+// the (CT) bot has begun defusing the bomb
+Chatter DefusingBomb
+	Radio EVENT_RADIO_COVER_ME
+
+	Important
+
+	radio\bot\Reallite\Defusing\defusing.wav
+	radio\bot\Reallite\Defusing\defusing1.wav
+	radio\bot\Reallite\Defusing\defusing2.wav
+	radio\bot\Reallite\Defusing\defusing3.wav
+	radio\bot\Reallite\Defusing\defusing4.wav
+End
+
+// the (CT) bot is announcing his intention to guard the dropped bomb
+Chatter GoingToGuardLooseBomb
+	radio\bot\Reallite\guardbomb1\buduguard.wav
+	radio\bot\Reallite\guardbomb1\buduguard1.wav
+	radio\bot\Reallite\guardbomb1\buduguard2.wav
+End
+
+// the (CT) bot it telling his team that he is guarding the dropped bomb
+Chatter GuardingLooseBomb
+	Radio EVENT_RADIO_IN_POSITION
+
+	Important
+
+	radio\bot\Reallite\guardbomb\guardbomb.wav
+	radio\bot\Reallite\guardbomb\guardbomb1.wav
+	radio\bot\Reallite\guardbomb\guardbomb2.wav
+	radio\bot\Reallite\guardbomb\guardbomb3.wav
+	radio\bot\Reallite\guardbomb\guardbomb4.wav
+End
+
+// the (Terrorist) bot is planting the bomb
+Chatter PlantingBomb
+	Radio EVENT_RADIO_COVER_ME
+
+	Important
+
+	// for maps with no places, and also to be occasionally vague about where we're planting
+	Place ANY
+		radio\bot\Reallite\planting\planting.wav
+		radio\bot\Reallite\planting\planting1.wav
+		radio\bot\Reallite\planting\planting2.wav
+		radio\bot\Reallite\planting\planting3.wav
+		radio\bot\Reallite\planting\planting4.wav
+		radio\bot\Reallite\planting\planting5.wav
+		radio\bot\Reallite\planting\planting6.wav
+		radio\bot\Reallite\planting\planting7.wav
+		radio\bot\Reallite\planting\planting8.wav
+
+	Place BombsiteA
+		radio\bot\Reallite\planting\plantingA.wav
+		radio\bot\Reallite\planting\plantingA1.wav
+		radio\bot\Reallite\planting\plantingA2.wav
+
+	Place BombsiteB
+		radio\bot\Reallite\planting\plantingB.wav
+		radio\bot\Reallite\planting\plantingB1.wav
+		radio\bot\Reallite\planting\plantingB2.wav
+
+	Place BombsiteC
+		radio\bot\Reallite\planting\plantingC.wav
+End
+
+// the (Terrorist) bot is announcing his intention to plant the bomb at a specific bomb site
+Chatter GoingToPlantBomb
+	Radio EVENT_RADIO_FOLLOW_ME
+
+	Important
+
+	// for maps with no places, and to be vague occasionally
+	Place ANY
+		radio\bot\Reallite\goplant\goplant.wav
+		radio\bot\Reallite\goplant\goplant1.wav
+		radio\bot\Reallite\goplant\goplant2.wav
+		radio\bot\Reallite\goplant\goplant3.wav
+		radio\bot\Reallite\goplant\goplant4.wav
+		radio\bot\Reallite\goplant\goplant5.wav
+		radio\bot\Reallite\goplant\goplant6.wav
+		radio\bot\Reallite\goplant\goplant7.wav
+		radio\bot\Reallite\goplant\goplant8.wav
+		radio\bot\Reallite\goplant\goplant9.wav
+
+	Place BombsiteA
+		radio\bot\Reallite\goplant\goplantA.wav
+		radio\bot\Reallite\goplant\goplantA1.wav
+
+	Place BombsiteB
+		radio\bot\Reallite\goplant\goplantB.wav
+		radio\bot\Reallite\goplant\goplantB1.wav
+
+	Place BombsiteC
+		radio\bot\Reallite\goplant\goplantC.wav
+End
+
+// the (CT) bot has spotted the bomb carrier
+// VOICE NOTE: Intensity/determination/anger
+Chatter SpottedBomber
+	Radio EVENT_RADIO_ENEMY_SPOTTED
+
+	Important
+
+	radio\bot\Reallite\seebomber\seebomber.wav
+	radio\bot\Reallite\seebomber\seebomber1.wav
+	radio\bot\Reallite\seebomber\seebomber2.wav
+	radio\bot\Reallite\seebomber\seebomber3.wav
+	radio\bot\Reallite\seebomber\seebomber4.wav
+	radio\bot\Reallite\seebomber\seebomber5.wav
+	radio\bot\Reallite\seebomber\seebomber6.wav
+End
+
+// the bot has spotted a dropped bomb on the ground
+Chatter SpottedLooseBomb
+	Important
+
+	radio\bot\Reallite\seebomb\seebomb.wav
+	radio\bot\Reallite\seebomb\seebomb1.wav
+	radio\bot\Reallite\seebomb\seebomb2.wav
+	radio\bot\Reallite\seebomb\seebomb3.wav
+	radio\bot\Reallite\seebomb\seebomb4.wav
+End
+
+// the (CT) bot heard a Terrorist pick up the dropped bomb
+// VOICE NOTE: Anxiety/urgency
+Chatter TheyPickedUpTheBomb
+	Important
+
+	radio\bot\Reallite\pickbomb\pickbomb.wav
+	radio\bot\Reallite\pickbomb\pickbomb1.wav
+	radio\bot\Reallite\pickbomb\pickbomb2.wav
+	radio\bot\Reallite\pickbomb\pickbomb3.wav
+	radio\bot\Reallite\pickbomb\pickbomb4.wav
+	radio\bot\Reallite\pickbomb\pickbomb5.wav
+End
+
+// the (CT) bot has found the location of the ticking bomb
+Chatter PlantedBombPlace
+	Radio EVENT_RADIO_NEED_BACKUP
+
+	Important
+
+	// for maps with no places
+	Place UNDEFINED
+		radio\bot\Reallite\bombhere\bombhere.wav
+		radio\bot\Reallite\bombhere\bombhere1.wav
+		radio\bot\Reallite\bombhere\bombhere2.wav
+		radio\bot\Reallite\bombhere\bombhere3.wav
+		radio\bot\Reallite\bombhere\bombhere4.wav
+		radio\bot\Reallite\bombhere\bombhere5.wav
+
+	Place BombsiteA
+		radio\bot\Reallite\bombhere\bombhereA.wav
+		radio\bot\Reallite\bombhere\bombhereA1.wav
+		radio\bot\Reallite\bombhere\bombhereA2.wav
+
+	Place BombsiteB
+		radio\bot\Reallite\bombhere\bombhereB.wav
+		radio\bot\Reallite\bombhere\bombhereB1.wav
+		radio\bot\Reallite\bombhere\bombhereB2.wav
+
+	Place BombsiteC
+		radio\bot\Reallite\bombhere\bombhereC.wav
+End
+
+// the bot is asking his teammates where the bomb is
+Chatter WhereIsTheBomb
+	Important
+
+	radio\bot\Reallite\gdebomba\gdebomba.wav
+	radio\bot\Reallite\gdebomba\gdebomba1.wav
+	radio\bot\Reallite\gdebomba\gdebomba2.wav
+	radio\bot\Reallite\gdebomba\gdebomba3.wav
+	radio\bot\Reallite\gdebomba\gdebomba4.wav
+	radio\bot\Reallite\gdebomba\gdebomba5.wav
+End
+
+// the (CT) bot is announcing his intention to guard a bombsite
+Chatter GoingToDefendBombsite
+	Important
+
+	// for maps with no places, or we're just being vague
+	Place ANY
+		radio\bot\Reallite\guardbplace\guardbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace1.wav
+		radio\bot\Reallite\guardbplace\guardbplace2.wav
+		radio\bot\Reallite\guardbplace\guardbplace3.wav
+		radio\bot\Reallite\guardbplace\guardbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace1.wav
+		radio\bot\Reallite\guardbplace\guardbplace2.wav
+		radio\bot\Reallite\guardbplace\guardbplace3.wav
+		radio\bot\Reallite\guardbplace\guardbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace1.wav
+		radio\bot\Reallite\guardbplace\guardbplace2.wav
+		radio\bot\Reallite\guardbplace\guardbplace3.wav
+		radio\bot\Reallite\Somepuks\pukbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace1.wav
+		radio\bot\Reallite\guardbplace\guardbplace2.wav
+		radio\bot\Reallite\guardbplace\guardbplace3.wav
+		radio\bot\Reallite\guardbplace\guardbplace.wav
+		radio\bot\Reallite\guardbplace\guardbplace1.wav
+		radio\bot\Reallite\guardbplace\guardbplace2.wav
+		radio\bot\Reallite\guardbplace\guardbplace3.wav
+
+	Place BombsiteA
+		radio\bot\Reallite\guardbplace\guardbplaceA.wav
+		radio\bot\Reallite\guardbplace\guardbplaceA1.wav
+
+	Place BombsiteB
+		radio\bot\Reallite\guardbplace\guardbplaceB.wav
+		radio\bot\Reallite\guardbplace\guardbplaceB1.wav
+		radio\bot\Reallite\guardbplace\guardbplaceB2.wav
+
+	Place BombsiteC
+		radio\bot\Reallite\guardbplace\guardbplaceC.wav
+End
+
+// the (CT) bot is announcing that he is currently guarding a bombsite
+Chatter DefendingBombsite
+	Important
+
+	// for maps with no places
+	Place UNDEFINED
+		radio\bot\Reallite\campbplace\campbplace.wav
+		radio\bot\Reallite\campbplace\campbplace1.wav
+		radio\bot\Reallite\campbplace\campbplace2.wav
+		radio\bot\Reallite\campbplace\campbplace3.wav
+		radio\bot\Reallite\campbplace\campbplace4.wav
+
+	Place BombsiteA
+		radio\bot\Reallite\campbplace\campbplaceA.wav
+		radio\bot\Reallite\campbplace\campbplaceA1.wav
+		radio\bot\Reallite\campbplace\campbplaceA2.wav
+
+	Place BombsiteB
+		radio\bot\Reallite\campbplace\campbplaceB.wav
+		radio\bot\Reallite\campbplace\campbplaceB1.wav
+		radio\bot\Reallite\campbplace\campbplaceB2.wav
+
+	Place BombsiteC
+		radio\bot\Reallite\campbplace\campbplaceC.wav
+End
+
+// the (CT) bot is announcing that the bombsite is secure and ready for someone to defuse the bomb
+Chatter BombsiteSecure
+	Radio EVENT_RADIO_SECTOR_CLEAR
+
+	Important
+
+	radio\bot\Reallite\cleardefuseit\defuseit.wav
+	radio\bot\Reallite\cleardefuseit\defuseit1.wav
+	radio\bot\Reallite\cleardefuseit\defuseit2.wav
+	radio\bot\Reallite\cleardefuseit\defuseit3.wav
+End
+
+// the (CT) bot is encouraging the player to defuse the bomb
+Chatter WaitingForHumanToDefuseBomb
+	radio\bot\Reallite\cleardefuseit\humandef.wav
+End
+
+// the (CT) bot is anxiously encouraging the player to defuse the bomb
+// VOICE NOTE: Very nervous/anxious/worried
+Chatter WaitingForHumanToDefuseBombPanic
+	radio\bot\Reallite\sirdefuseit\sirdefuseit.wav
+	radio\bot\Reallite\sirdefuseit\sirdefuseit1.wav
+	radio\bot\Reallite\sirdefuseit\sirdefuseit2.wav
+	radio\bot\Reallite\sirdefuseit\sirdefuseit3.wav
+	radio\bot\Reallite\sirdefuseit\sirdefuseit4.wav
+End
+
+// when the bomb was defused with less than 2 seconds left
+// VOICE NOTE: Relief/happy
+Chatter BarelyDefused
+	radio\bot\Reallite\cool_defuse\cooldefuse2.wav
+	radio\bot\Reallite\cool_defuse\cooldefuse.wav
+	radio\bot\Reallite\cool_defuse\cooldefuse1.wav
+	radio\bot\Reallite\cool_defuse\cooldefuse3.wav
+End
+
+
+//-----------------------------------------------------------------------------------------
+//
+// Hostage Rescue chatter
+//
+
+// the (Terrorist) bot is announcing his intention to guard the hostages
+Chatter GoingToGuardHostages
+	Important
+
+	radio\bot\Reallite\igohostage\igohostage.wav
+	radio\bot\Reallite\igohostage\igohostage1.wav
+	radio\bot\Reallite\igohostage\igohostage2.wav
+	radio\bot\Reallite\igohostage\igohostage3.wav
+	radio\bot\Reallite\igohostage\igohostage4.wav
+	radio\bot\Reallite\igohostage\igohostage5.wav
+	radio\bot\Reallite\igohostage\igohostage6.wav
+	radio\bot\Reallite\igohostage\igohostage7.wav
+End
+
+// the (Terrorist) bot is currently guarding some hostages
+Chatter GuardingHostages
+	Important
+
+	radio\bot\Reallite\icamphost\icamphost.wav
+	radio\bot\Reallite\icamphost\icamphost1.wav
+	radio\bot\Reallite\icamphost\icamphost2.wav
+	radio\bot\Reallite\icamphost\icamphost3.wav
+	radio\bot\Reallite\icamphost\icamphost4.wav
+	radio\bot\Reallite\icamphost\icamphost5.wav
+	radio\bot\Reallite\icamphost\icamphost6.wav
+End
+
+// the (Terrorist) bot is announcing his intetion to guard an escape zone
+Chatter GoingToGuardHostageEscapeZone
+	Important
+
+	radio\bot\Reallite\igorescue\igorescue.wav
+	radio\bot\Reallite\igorescue\igorescue1.wav
+	radio\bot\Reallite\igorescue\igorescue2.wav
+	radio\bot\Reallite\igorescue\igorescue3.wav
+	radio\bot\Reallite\igorescue\igorescue4.wav
+	radio\bot\Reallite\igorescue\igorescue5.wav
+End
+
+// the (Terrorist) bot is currently guarding an escape zone
+Chatter GuardingHostageEscapeZone
+	Important
+
+	radio\bot\Reallite\icamprescue\icamprescue.wav
+	radio\bot\Reallite\icamprescue\icamprescue1.wav
+	radio\bot\Reallite\icamprescue\icamprescue2.wav
+	radio\bot\Reallite\icamprescue\icamprescue3.wav
+	radio\bot\Reallite\icamprescue\icamprescue4.wav
+	radio\bot\Reallite\icamprescue\icamprescue5.wav
+	radio\bot\Reallite\icamprescue\icamprescue6.wav
+	radio\bot\Reallite\icamprescue\icamprescue7.wav
+End
+
+// the (Terrorist) bot is telling his friends that the CT's are taking the hostages right now
+// VOICE NOTE: Anxiety/frustration/anger
+Chatter HostagesBeingTaken
+	Radio EVENT_RADIO_NEED_BACKUP
+
+	Important
+
+	radio\bot\Reallite\takehostage\takehostage.wav
+	radio\bot\Reallite\takehostage\takehostage1.wav
+	radio\bot\Reallite\takehostage\takehostage2.wav
+	radio\bot\Reallite\takehostage\takehostage3.wav
+	radio\bot\Reallite\takehostage\takehostage4.wav
+	radio\bot\Reallite\takehostage\takehostage5.wav
+	radio\bot\Reallite\takehostage\takehostage6.wav
+	radio\bot\Reallite\takehostage\takehostage7.wav
+	radio\bot\Reallite\takehostage\takehostage8.wav
+	radio\bot\Reallite\takehostage\takehostage9.wav
+	radio\bot\Reallite\takehostage\takehostage10.wav
+End	
+
+// the (Terrorist) bot has just discovered that the hostages are gone
+// VOICE NOTE: Anxiety/frustration/anger
+Chatter HostagesTaken
+	Important
+
+	radio\bot\Reallite\nohostage\nohostage.wav
+	radio\bot\Reallite\nohostage\nohostage1.wav
+	radio\bot\Reallite\nohostage\nohostage2.wav
+	radio\bot\Reallite\nohostage\nohostage3.wav
+End
+
+// the (CT) bot is announcing that he is talking to the hostages
+Chatter TalkingToHostages
+	Important
+
+	radio\bot\Reallite\itakehost\itakehost.wav
+	radio\bot\Reallite\itakehost\itakehost1.wav
+	radio\bot\Reallite\itakehost\itakehost2.wav
+	radio\bot\Reallite\itakehost\itakehost3.wav
+End
+
+// the (CT) bot is annoucing that he has the hostages and is taking them to the escape zone
+Chatter EscortingHostages
+	Important
+
+	radio\bot\Reallite\ihavehost\ihavehost.wav
+	radio\bot\Reallite\ihavehost\ihavehost1.wav
+	radio\bot\Reallite\ihavehost\ihavehost2.wav
+	radio\bot\Reallite\ihavehost\ihavehost3.wav
+	radio\bot\Reallite\ihavehost\ihavehost4.wav
+	radio\bot\Reallite\ihavehost\ihavehost5.wav
+End
+
+// the (CT) bot is guarding the hostages and is encouraging the human player to come rescue them
+Chatter WaitingForHumanToRescueHostages
+	Radio EVENT_RADIO_SECTOR_CLEAR
+
+	Important
+
+	radio\bot\Reallite\icoverhost\icoverhost.wav
+	radio\bot\Reallite\icoverhost\icoverhost1.wav
+	radio\bot\Reallite\icoverhost\icoverhost2.wav
+	radio\bot\Reallite\icoverhost\icoverhost3.wav
+	radio\bot\Reallite\icoverhost\icoverhost4.wav
+	radio\bot\Reallite\icoverhost\icoverhost5.wav
+	radio\bot\Reallite\icoverhost\icoverhost6.wav
+End
+
+
+//-----------------------------------------------------------------------------------------
+//
+// VIP Scenario chatter
+//
+
+// the (Terrorist) bot has spotted the VIP
+// VOICE NOTE: Intensity/anger/determination
+Chatter SpottedVIP
+	Radio EVENT_RADIO_ENEMY_SPOTTED
+
+	Important
+
+	radio\bot\Reallite\iseeVIP\iseeVIP.wav
+	radio\bot\Reallite\iseeVIP\iseeVIP1.wav
+	radio\bot\Reallite\iseeVIP\iseeVIP2.wav
+	radio\bot\Reallite\iseeVIP\iseeVIP3.wav
+	radio\bot\Reallite\iseeVIP\iseeVIP4.wav
+	radio\bot\Reallite\iseeVIP\iseeVIP5.wav
+End
+
+// the (Terrorist) bot is announcing his intention to guard an escape zone
+Chatter GoingToGuardVIPEscapeZone
+	Important
+
+	radio\bot\Reallite\igorescue\igorescue.wav
+	radio\bot\Reallite\igorescue\igorescue1.wav
+	radio\bot\Reallite\igorescue\igorescue2.wav
+	radio\bot\Reallite\igorescue\igorescue3.wav
+	radio\bot\Reallite\igorescue\igorescue4.wav
+	radio\bot\Reallite\igorescue\igorescue5.wav
+End
+
+// the (Terrorist) bot is guarding an escape zone
+Chatter GuardingVIPEscapeZone
+	Important
+
+	radio\bot\Reallite\icamprescue\icamprescue.wav
+	radio\bot\Reallite\icamprescue\icamprescue1.wav
+	radio\bot\Reallite\icamprescue\icamprescue2.wav
+	radio\bot\Reallite\icamprescue\icamprescue5.wav
+	radio\bot\Reallite\icamprescue\icamprescue7.wav
+End
+
+
+//-----------------------------------------------------------------------------------------
+
+// the bot was saying something and died in mid-sentance
+// VOICE NOTE: death cry
+Chatter Pain
+	radio\bot\Reallite\deadcry\dead.wav
+	radio\bot\Reallite\deadcry\dead1.wav
+	radio\bot\Reallite\deadcry\dead2.wav
+	radio\bot\Reallite\deadcry\dead3.wav
+	radio\bot\Reallite\deadcry\dead4.wav
+	radio\bot\Reallite\deadcry\dead5.wav
+	radio\bot\Reallite\deadcry\dead6.wav
+	radio\bot\Reallite\deadcry\dead7.wav
+	radio\bot\Reallite\deadcry\dead8.wav
+	radio\bot\Reallite\deadcry\dead9.wav
+	radio\bot\Reallite\deadcry\dead10.wav
+	radio\bot\Reallite\deadcry\dead11.wav
+End
+
+// the bot is congratulating his team for winning the round
+Chatter WonRound
+	radio\bot\Reallite\win\win.wav
+	radio\bot\Reallite\win\win1.wav
+	radio\bot\Reallite\win\win2.wav
+	radio\bot\Reallite\win\win3.wav
+	radio\bot\Reallite\win\win4.wav
+	radio\bot\Reallite\win\win5.wav
+	radio\bot\Reallite\win\win6.wav
+	radio\bot\Reallite\win\win.wav
+	radio\bot\Reallite\win\win1.wav
+	radio\bot\Reallite\win\win2.wav
+	radio\bot\Reallite\win\win3.wav
+	radio\bot\Reallite\win\win4.wav
+	radio\bot\Reallite\win\win5.wav
+	radio\bot\Reallite\win\win6.wav
+	radio\bot\Reallite\Somepuks\pukresp.wav
+End
+
+// the bot is celebrating because his team crushed the enemies very quickly
+// VOICE NOTE: Hoots and hollers of excitement, bragging, boasting, etc
+Chatter WonRoundQuickly
+	radio\bot\Reallite\ohyes\ohyes.wav
+	radio\bot\Reallite\ohyes\ohyes1.wav
+	radio\bot\Reallite\ohyes\ohyes2.wav
+	radio\bot\Reallite\ohyes\ohyes3.wav
+	radio\bot\Reallite\ohyes\ohyes4.wav
+	radio\bot\Reallite\ohyes\ohyes5.wav
+	radio\bot\Reallite\ohyes\ohyes6.wav
+	radio\bot\Reallite\ohyes\ohyes7.wav
+	radio\bot\Reallite\ohyes\ohyes8.wav
+End
+
+// the bot won the round and is the last player alive
+// VOICE NOTE: Bragging, boasting, etc
+Chatter LastManStanding
+	radio\bot\Reallite\alone\imsuper.wav
+	radio\bot\Reallite\alone\imsuper1.wav
+	radio\bot\Reallite\alone\imsuper2.wav
+	radio\bot\Reallite\alone\imsuper3.wav
+End
+
+// the bot emits a short, exicited noise because he did something especially good
+// VOICE NOTE: Hoots and hollers of excitement
+Chatter ThrillEmote
+	radio\bot\Reallite\cool\cool.wav
+	radio\bot\Reallite\cool\cool1.wav
+	radio\bot\Reallite\cool\cool2.wav
+	radio\bot\Reallite\cool\cool3.wav
+	radio\bot\Reallite\cool\cool4.wav
+	radio\bot\Reallite\cool\cool5.wav
+End
+
+// the bot is afraid (usually because he is outnumbered by enemies)
+// VOICE NOTE: Worry/anxiety/fear
+Chatter ScaredEmote
+	radio\bot\Reallite\ups\ups.wav
+	radio\bot\Reallite\ups\ups1.wav
+	radio\bot\Reallite\ups\ups2.wav
+	radio\bot\Reallite\ups\ups3.wav
+	radio\bot\Reallite\ups\ups4.wav
+	radio\bot\Reallite\ups\ups5.wav
+	radio\bot\Reallite\ups\ups6.wav
+	radio\bot\Reallite\ups\ups7.wav
+	radio\bot\Reallite\ups\ups8.wav
+	radio\bot\Reallite\ups\ups9.wav
+End
+
+// the bot is agreeing with a plan someone else announced
+Chatter AgreeWithPlan
+	Important
+
+	radio\bot\Reallite\metoo\metoo.wav
+	radio\bot\Reallite\metoo\metoo1.wav
+	radio\bot\Reallite\metoo\metoo2.wav
+	radio\bot\Reallite\metoo\metoo3.wav
+	radio\bot\Reallite\metoo\metoo4.wav
+	radio\bot\Reallite\metoo\metoo5.wav
+	radio\bot\Reallite\metoo\metoo6.wav
+End
+
+// the bot is telling a friend that he will "cover them" and watch their back
+Chatter CoveringFriend
+	Radio EVENT_RADIO_AFFIRMATIVE
+
+	Important
+
+	radio\bot\Reallite\imcover\imcover.wav
+	radio\bot\Reallite\imcover\imcover1.wav
+	radio\bot\Reallite\imcover\imcover2.wav
+	radio\bot\Reallite\imcover\imcover3.wav
+	radio\bot\Reallite\imcover\imcover4.wav
+End
+
+// the bot is responding to someone's request for help
+// VOICE NOTE: Confident/assuring
+Chatter OnMyWay
+	Radio EVENT_RADIO_AFFIRMATIVE
+
+	Important
+
+	radio\bot\Reallite\icome\icome.wav
+	radio\bot\Reallite\icome\icome1.wav
+	radio\bot\Reallite\icome\icome2.wav
+	radio\bot\Reallite\icome\icome3.wav
+	radio\bot\Reallite\icome\icome4.wav
+	radio\bot\Reallite\icome\icome5.wav
+	radio\bot\Reallite\icome\icome6.wav
+	radio\bot\Reallite\icome\icome7.wav
+	radio\bot\Reallite\icome\icome8.wav
+End
+
+// the bot has decided to hide for a little while, instead of seeking out the enemy
+// VOICE NOTE: Anxiety/worry/cowardice
+Chatter WaitingHere
+	radio\bot\Reallite\iwaithere\iwaithere.wav
+	radio\bot\Reallite\iwaithere\iwaithere1.wav
+	radio\bot\Reallite\iwaithere\iwaithere2.wav
+	radio\bot\Reallite\iwaithere\iwaithere3.wav
+	radio\bot\Reallite\iwaithere\iwaithere4.wav
+	radio\bot\Reallite\iwaithere\iwaithere5.wav
+	radio\bot\Reallite\iwaithere\iwaithere6.wav
+	radio\bot\Reallite\iwaithere\iwaithere7.wav
+	radio\bot\Reallite\iwaithere\iwaithere8.wav
+
+End
+
+// the bot has been in combat for a long time, and can't get away
+// VOICE NOTE: Anxiety/worry/fear
+Chatter PinnedDown
+	Radio EVENT_RADIO_NEED_BACKUP
+
+	radio\bot\Reallite\need_backup\need_backup.wav
+	radio\bot\Reallite\need_backup\need_backup1.wav
+	radio\bot\Reallite\need_backup\need_backup2.wav
+	radio\bot\Reallite\need_backup\need_backup3.wav
+	radio\bot\Reallite\need_backup\need_backup4.wav
+	radio\bot\Reallite\need_backup\need_backup5.wav
+	radio\bot\Reallite\need_backup\need_backup6.wav
+End
+
+// the bot heard an enemy noise
+// VOICE NOTE: Said as an undertone/afterthought
+Chatter HeardNoise
+	radio\bot\Reallite\ihear\ihear.wav
+	radio\bot\Reallite\ihear\ihear1.wav
+	radio\bot\Reallite\ihear\ihear2.wav
+	radio\bot\Reallite\ihear\ihear3.wav
+	radio\bot\Reallite\ihear\ihear4.wav
+	radio\bot\Reallite\ihear\ihear5.wav
+	radio\bot\Reallite\ihear\ihear6.wav
+	radio\bot\Reallite\ihear\ihear.wav
+	radio\bot\Reallite\ihear\ihear1.wav
+	radio\bot\Reallite\ihear\ihear2.wav
+	radio\bot\Reallite\ihear\ihear3.wav
+	radio\bot\Reallite\ihear\ihear4.wav
+	radio\bot\Reallite\ihear\ihear5.wav
+	radio\bot\Reallite\ihear\ihear6.wav
+	radio\bot\Reallite\Somepuks\pukktozdes.wav
+	radio\bot\Reallite\ihear\ihear.wav
+	radio\bot\Reallite\ihear\ihear1.wav
+	radio\bot\Reallite\ihear\ihear2.wav
+	radio\bot\Reallite\ihear\ihear3.wav
+	radio\bot\Reallite\ihear\ihear4.wav
+	radio\bot\Reallite\ihear\ihear5.wav
+	radio\bot\Reallite\ihear\ihear6.wav
+	radio\bot\Reallite\ihear\ihear.wav
+	radio\bot\Reallite\ihear\ihear1.wav
+	radio\bot\Reallite\ihear\ihear2.wav
+	radio\bot\Reallite\ihear\ihear3.wav
+	radio\bot\Reallite\ihear\ihear4.wav
+	radio\bot\Reallite\ihear\ihear5.wav
+	radio\bot\Reallite\ihear\ihear6.wav
+End
+
+// the bot has been blinded by a Flashbang Grenade
+// VOICE NOTE: Surprise/shock/fear/anxiety
+Chatter Blinded
+	radio\bot\Reallite\flash\flash.wav
+	radio\bot\Reallite\flash\flash1.wav
+	radio\bot\Reallite\flash\flash2.wav
+	radio\bot\Reallite\flash\flash3.wav
+	radio\bot\Reallite\flash\flash4.wav
+	radio\bot\Reallite\flash\flash5.wav
+End
+
+// the bot is congratulating a friend on a well placed shot
+// VOICE NOTE: upbeat/supportive/impressed
+Chatter NiceShot
+	radio\bot\reallite\niceshoot\niceshoot.wav
+	radio\bot\reallite\niceshoot\niceshoot1.wav
+	radio\bot\Reallite\niceshoot\niceshoot5.wav
+	radio\bot\Reallite\niceshoot\niceshoot6.wav
+	radio\bot\Reallite\niceshoot\niceshoot7.wav
+	radio\bot\Reallite\niceshoot\niceshoot8.wav
+	radio\bot\Reallite\niceshoot\niceshoot9.wav
+End
+
+// the bot is congratulating a human player on a well placed shot
+// VOICE NOTE: upbeat/supportive/impressed
+Chatter NiceShotSir
+	radio\bot\Reallite\niceshoot\fatality2.wav
+	radio\bot\Reallite\niceshoot\niceshoot.wav
+	radio\bot\Reallite\niceshoot\niceshoot1.wav
+	radio\bot\Reallite\niceshoot\fatality2.wav
+	radio\bot\Reallite\niceshoot\niceshoot5.wav
+	radio\bot\Reallite\niceshoot\niceshoot6.wav
+	radio\bot\Reallite\niceshoot\niceshoot7.wav
+	radio\bot\Reallite\niceshoot\niceshoot8.wav
+	radio\bot\Reallite\niceshoot\niceshoot9.wav
+	radio\bot\Reallite\niceshoot\fatality2.wav
+	radio\bot\Reallite\niceshoot\nicehuman1.wav
+	radio\bot\Reallite\niceshoot\nicehuman2.wav
+	radio\bot\Reallite\niceshoot\nicehuman3.wav
+	radio\bot\Reallite\niceshoot\nicehuman4.wav
+End
+
+// the bot is congratulating the "commander" in the solo game
+// VOICE NOTE: upbeat/supportive/impressed
+Chatter NiceShotCommander
+	radio\bot\cooked\nice_shot_commander.wav
+	radio\bot\cooked\nice_shot_commander2.wav
+	radio\bot\cooked\good_shot_commander.wav
+	radio\bot\cooked\good_shot_commander2.wav
+	radio\bot\cooked\nice_one_commander.wav
+	radio\bot\cooked\good_one_sir.wav
+	radio\bot\cooked\good_one_sir2.wav
+	radio\bot\cooked\nice_shot_sir.wav
+	radio\bot\cooked\nice_one_sir.wav
+End
+
+// when the player dies in the solo game
+// VOICE NOTE: Intense/worry/anxiety
+Chatter CommanderDown
+	Radio EVENT_RADIO_REGROUP_TEAM
+
+	Important
+
+	radio\bot\cooked\the_commander_is_down_repeat.wav
+	radio\bot\cooked\the_commander_is_down.wav
+	radio\bot\cooked\weve_lost_the_commander.wav
+End
+
+// the bot has decided to follow a human player
+Chatter FollowingSir
+	Radio EVENT_RADIO_AFFIRMATIVE
+
+	Important
+
+	radio\bot\Reallite\followman\follow.wav
+	radio\bot\Reallite\followman\follow1.wav
+	radio\bot\Reallite\followman\follow2.wav
+	radio\bot\Reallite\followman\follow3.wav
+End
+
+// the bot has decided to follow the human player in the solo game
+Chatter FollowingCommander
+	Radio EVENT_RADIO_AFFIRMATIVE
+
+	Important
+
+	radio\bot\cooked\lead_on_sir.wav
+	radio\bot\cooked\lead_the_way_sir.wav
+	radio\bot\cooked\lead_the_way.wav
+	radio\bot\cooked\ok_sir_lets_go.wav
+	radio\bot\cooked\lead_on_commander.wav
+	radio\bot\cooked\lead_the_way_commander.wav
+	radio\bot\cooked\ok_cmdr_lets_go.wav
+End
+
+// the bot is expressing its shock that a friend has killed another friend (friendly fire)
+// VOICE NOTE: Grief/sadness/worry/astonishment
+Chatter KilledFriend
+	radio\bot\Reallite\seeffire\seeffire.wav
+	radio\bot\Reallite\seeffire\seeffire1.wav
+	radio\bot\Reallite\seeffire\seeffire2.wav
+	radio\bot\Reallite\seeffire\seeffire3.wav
+	radio\bot\Reallite\seeffire\seeffire4.wav
+	radio\bot\Reallite\seeffire\seeffire5.wav
+	radio\bot\Reallite\seeffire\seeffire6.wav
+	radio\bot\Reallite\seeffire\seeffire7.wav
+End
+
+// the bot is crying out because he was injured by friendly fire
+// VOICE NOTE: Pain/anger/frustration
+Chatter FriendlyFire
+	Important
+
+	radio\bot\Reallite\Friendlyfire\ffire.wav
+	radio\bot\Reallite\Friendlyfire\ffire1.wav
+	radio\bot\Reallite\friendlyfire\ffire2.wav
+	radio\bot\Reallite\friendlyfire\ffire3.wav
+	radio\bot\Reallite\friendlyfire\ffire4.wav
+	radio\bot\Reallite\friendlyfire\ffire5.wav
+	radio\bot\Reallite\friendlyfire\ffire6.wav
+	radio\bot\Reallite\friendlyfire\ffire7.wav
+	radio\bot\Reallite\friendlyfire\ffire8.wav
+	radio\bot\Reallite\friendlyfire\ffire9.wav
+	radio\bot\Reallite\Friendlyfire\ffire10.wav
+	radio\bot\Reallite\Friendlyfire\ffire11.wav
+	radio\bot\Reallite\Friendlyfire\ffire12.wav
+	radio\bot\Reallite\Friendlyfire\ffire13.wav
+	radio\bot\Reallite\Friendlyfire\ffire14.wav
+	radio\bot\Reallite\Friendlyfire\ffire15.wav
+	radio\bot\Reallite\Friendlyfire\ffire16.wav
+	radio\bot\Reallite\Friendlyfire\ffire17.wav
+End
+
+
+
+//---------------------------------------------------------------------------------------
+//
+// The items below are not used (yet)
+//
+
+Chatter PepTalk
+	radio\bot\cooked\alright_lets_do_this.wav
+	radio\bot\cooked\tag_them_and_bag_them.wav
+	radio\bot\cooked\you_heard_the_man_lets_go.wav
+End
+
+Chatter OnARollBrag
+	radio\bot\cooked\i_got_more_where_that_came_from.wav
+	radio\bot\cooked\who_wants_some_more.wav
+	radio\bot\cooked\i_am_on_fire.wav
+	radio\bot\cooked\look_out_brag.wav
+	radio\bot\cooked\thats_right.wav
+	radio\bot\cooked\whos_the_man.wav
+End
+
+Chatter TauntCamper
+	radio\bot\cooked\come_out_wherever_you_are.wav
+	radio\bot\cooked\where_are_you_hiding.wav
+	radio\bot\cooked\come_out_and_fight_like_a_man.wav
+	radio\bot\cooked\come_to_papa.wav
+End
+
+Chatter PreventEscapeBrag
+	radio\bot\cooked\they_wont_get_away.wav
+	radio\bot\cooked\they_wont_get_away2.wav
+	radio\bot\cooked\they_will_not_escape.wav
+End
+
+Chatter SniperWarning
+	radio\bot\cooked\sniper.wav
+	radio\bot\cooked\sniper2.wav
+	radio\bot\cooked\watch_it_theres_a_sniper.wav
+End
+
+Chatter SniperKilled
+	radio\bot\cooked\got_the_sniper.wav
+	radio\bot\cooked\got_the_sniper2.wav
+	radio\bot\cooked\sniper_down.wav
+	radio\bot\cooked\took_out_the_sniper.wav
+	radio\bot\cooked\the_sniper_is_dead.wav
+End
+
+// we saw enemies, but now they're all dead
+Chatter ClearedArea
+	radio\bot\cooked\area_secure.wav 
+	radio\bot\cooked\neutralized.wav 
+End
+
+Chatter Agree
+	radio\bot\cooked\ok.wav
+	radio\bot\cooked\ok2.wav
+	radio\bot\cooked\alright.wav
+	radio\bot\cooked\alright2.wav
+	radio\bot\cooked\yea_ok.wav
+End
+
+Chatter Disagree
+	radio\bot\cooked\no2.wav
+	radio\bot\cooked\i_dont_think_so.wav
+	radio\bot\cooked\naa.wav
+	radio\bot\cooked\no_thanks.wav
+End
+
+Chatter CoverMe
+	radio\bot\cooked\cover_me.wav 
+	radio\bot\cooked\cover_me2.wav 
+End
+
+Chatter FrustrationEmote
+	radio\bot\cooked\aw_hell.wav
+	radio\bot\cooked\great.wav
+	radio\bot\cooked\aww_man.wav
+	radio\bot\cooked\thats_not_good.wav
+End
+
+Chatter FollowingFriend
+	radio\bot\cooked\ill_come_with_you.wav
+	radio\bot\cooked\ill_go_with_you.wav
+	radio\bot\cooked\ill_go_too.wav
+	radio\bot\cooked\i_got_your_back.wav
+	radio\bot\cooked\i_got_your_back2.wav
+	radio\bot\cooked\im_with_you.wav
+End
+
+Chatter ReportingIn
+	radio\bot\cooked\reporting_in.wav 
+End
+
+Chatter BombTickingDown
+	radio\bot\cooked\we_gotta_find_that_bomb.wav
+	radio\bot\cooked\time_is_running_out.wav
+	radio\bot\cooked\theres_not_much_time_left.wav
+End
+
+Chatter HostageDown
+	radio\bot\cooked\hostage_down.wav
+End
+
+Chatter RequestHostageLocation
+	radio\bot\cooked\where_are_the_hostages.wav
+End
+
+Chatter MeToo
+	radio\bot\cooked\me_too.wav
+End
+
+

@@ -1,0 +1,23 @@
+"AppState"
+{
+    "appID"     "70"
+    "Universe"      "1"
+    "StateFlags"        "68"
+    "installdir"        "Half-Life"
+    "LastUpdated"       "0"
+    "UpdateResult"      "0"
+    "SizeOnDisk"        "0"
+    "buildid"       "0"
+    "LastOwner"     "0"
+    "BytesToDownload"       "0"
+    "BytesDownloaded"       "0"
+    "UserConfig"
+    {
+        "betakey"       "public"
+    }
+    "MountedDepots"
+    {
+        "1"     "0"
+        "71"    "0"
+    }
+}

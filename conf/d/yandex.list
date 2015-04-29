@@ -1,0 +1,4 @@
+deb http://mirror.yandex.ru/debian/ jessie main contrib non-free
+deb http://mirror.yandex.ru/debian/ jessie-updates main contrib non-free
+deb http://mirror.yandex.ru/debian/ jessie-backports main contrib non-free
+deb http://mirror.yandex.ru/debian/ jessie-proposed-updates main contrib non-free
