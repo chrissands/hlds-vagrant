@@ -23,7 +23,7 @@ fi
 
 echo ' => create folders '
  mkdir -p /opt/{steam,hlds} 
- chown -Rvf steamuser:steamuser /opt/{steam,hlds,hlds/cstrike} 
+ chown -Rvf steamuser:steamuser /opt/{steam,hlds} 
  chmod -Rvf 775 /opt/{steam,hlds} 
 [ $? -eq 0 ] || exit $?
 
@@ -52,10 +52,6 @@ if [[ ! -f "/home/steamuser/.steam/steam" ]] ; then
   sudo -n -u steamuser ln -s /opt/steam/steam.sh /home/steamuser/.steam/steam
 fi
 
-if [[ ! -f "./hlds_script.steamcmd" ]] ; then
-  cp -v /vagrant_data/hlds_script.steamcmd /opt/steam/
-  chown steamuser:steamuser /opt/steam/hlds_script.steamcmd
-fi
 
 #if [[ ! -d "/opt/hlds/steamapps" ]] ; then
 #  mkdir -p /opt/hlds/steamapps/
@@ -76,6 +72,10 @@ fi
 [ $? -eq 0 ] || exit $?
 
   echo ' => try get steam files'
+if [[ ! -f "./hlds_script.steamcmd" ]] ; then
+  cp -v /vagrant_data/hlds_script.steamcmd /opt/steam/
+  chown steamuser:steamuser /opt/steam/hlds_script.steamcmd
+fi
 #  tcount=0;
 #  stoploop=0
 #  while [ ${stoploop} -eq 0 ] ; do
@@ -92,6 +92,10 @@ fi
 #    fi
 #  done  
   echo ' ->  steam app 90 valve files'
+  if [[ ! -f "./hlds_valve90.steamcmd" ]] ; then
+    cp -v /vagrant_data/hlds_valve90.steamcmd /opt/steam/
+    chown steamuser:steamuser /opt/steam/hlds_valve90.steamcmd
+  fi
   tcount=0;
   stoploop=0
   while [ ${stoploop} -eq 0 ] ; do
@@ -109,6 +113,10 @@ fi
   done  
 
   echo ' ->  steam app 90 cstrike files'
+  if [[ ! -f "./hlds_cstrike90.steamcmd" ]] ; then
+    cp -v /vagrant_data/hlds_cstrike90.steamcmd /opt/steam/
+    chown steamuser:steamuser /opt/steam/hlds_cstrike90.steamcmd
+  fi
   tcount=0;
   stoploop=0
   while [ ${stoploop} -eq 0 ] ; do
@@ -126,6 +134,10 @@ fi
   done 
   
   echo ' ->  steam app 70 valve files'
+  if [[ ! -f "./hlds_valve70.steamcmd" ]] ; then
+    cp -v /vagrant_data/hlds_valve70.steamcmd /opt/steam/
+    chown steamuser:steamuser /opt/steam/hlds_valve70.steamcmd
+  fi
   tcount=0;
   stoploop=0
   while [ ${stoploop} -eq 0 ] ; do
@@ -143,6 +155,10 @@ fi
   done  
   
   echo ' ->  steam app 10 cstrike files'
+  if [[ ! -f "./hlds_cstrike10.steamcmd" ]] ; then
+    cp -v /vagrant_data/hlds_cstrike10.steamcmd /opt/steam/
+    chown steamuser:steamuser /opt/steam/hlds_cstrike10.steamcmd
+  fi
   tcount=0;
   stoploop=0
   while [ ${stoploop} -eq 0 ] ; do
