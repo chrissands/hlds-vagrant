@@ -61,6 +61,8 @@ fi
 echo ' => copy resgen to tool dir ... '
 cp -pvf /var/git/resgen/bin/resgen ${csdir}/tools/
 [ $? -eq 0 ] && ( echo -n ' ok.' ) || exit $?
+chmod -f +x "${csdir}/tools/resgen"
+chown -f steamuser:steamuser "${csdir}/tools/resgen"
 
 if [ ! -f "${csdir}/tools/resgen.sh" ]; then
   if [ ! -f "/vagrant_data/resgen.sh" ] ; then
@@ -69,6 +71,9 @@ if [ ! -f "${csdir}/tools/resgen.sh" ]; then
   fi
   cp -purRv /vagrant_data/resgen.sh ${csdir}/tools/resgen.sh
   [ $? -eq 0 ] && ( echo -n ' ok.' ) || exit $?
+  chmod -f +x "${csdir}/tools/resgen.sh"
+  chown -f steamuser:steamuser "${csdir}/tools/resgen.sh"
 fi
+chmod -Rvf +x "${csdir}/tools"
 
 [ $? -eq 0 ] && ( echo -e '\n\n === \n ALL OK.' ) || exit $?

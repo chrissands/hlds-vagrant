@@ -30,6 +30,13 @@ chmod 664 $( find  ${csdir} -type f )
 
 if [ -f "${csdir}/tools/resgen.sh" ] ; then
     cd "${csdir}/tools/"
+    if [ ! -x "${csdir}/tools/resgen" ]; then
+        chmod +x "${csdir}/tools/resgen"
+    fi
+    if [ ! -x "${csdir}/tools/resgen.sh" ]; then
+        chmod +x "${csdir}/tools/resgen.sh"
+    fi
+
     bash ./resgen.sh
     [ $? -eq 0 ] && ( echo -n ' call resgen ok.' ) || exit $?   
 fi

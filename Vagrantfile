@@ -6,7 +6,7 @@ require 'time'
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
 VAGRANTCFG_DOMAIN = "loc"
-VAGRANTCFG_HOSTNAME = "cs-server"
+VAGRANTCFG_HOSTNAME = "csserver"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   
@@ -23,6 +23,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end
   
   config.vm.box = "debian-8.0.0-i386"
+  config.vm.box_url = "https://github.com/bercut497/vagrant-box/releases/download/debian-8.0.0-i386/debian-8.0.0-i386.box"
   config.ssh.forward_agent = true
 
   config.vm.synced_folder "./data", "/vagrant_data", mount_options: ["ro"]
