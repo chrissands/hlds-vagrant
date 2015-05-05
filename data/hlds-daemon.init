@@ -15,10 +15,6 @@ SH="${SHELL}"
 if [ -f "/etc/rc.d/init.d/functions" ] ; then
   . /etc/rc.d/init.d/functions
 fi
-
-exe="/opt/hlds/hlds_run"
-cmd="${exe} -game cstrike -nosteam -nomaster +sv_lan 1 +ip 0.0.0.0 +port 27015 +map de_dust2"
-
 dir="/opt/hlds/"
 user="steamuser"
 name=`basename $0`
@@ -26,6 +22,20 @@ name=`basename $0`
 pid_file="/var/run/$name.pid"
 stdout_log="/var/log/$name.log"
 stderr_log="/var/log/$name.err"
+
+
+exe="/opt/hlds/hlds_run"
+cmd="${exe} \
+    -game cstrike \
+    -nosteam \
+    -nomaster \
+    -norestart \
+    -pidfile ${pid_file} \
+    +sv_lan 1 \
+    +ip 0.0.0.0 \
+    +port 27015 \
+    +map aim_headshot \
+    +maxplayers 32"
 
 get_pid() {
     cat "$pid_file"
@@ -43,7 +53,6 @@ case "$1" in
         echo "Starting $name"
         cd "$dir"
         sudo -n -u "$user" $cmd >> "$stdout_log" 2>> "$stderr_log" &
-        echo $! > "$pid_file"
         if ! is_running; then
             echo "Unable to start, see $stdout_log and $stderr_log"
             exit 1
